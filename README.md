@@ -2,8 +2,8 @@
 ***
 
 # Содержание
-1. [Тема, MVP, целевая аудитория](https://github.com/Alexeyzem/higload-whatsapp#1)
-- [Список источников](https://github.com/Alexeyzem/higload-whatsapp#2)
+1. [Тема, MVP, целевая аудитория](#1-тема-mvp-анализ-трафика)
+- [Список источников](#список-источников)
 
 ***
 
