@@ -352,7 +352,7 @@ PDF-файлов - 10Мбайт, таким образом получаем:\
 [10]: https://www.pewresearch.org/internet/2021/08/19/mobile-technology-and-home-broadcast-2021/
 [11]: https://submarine-cable-map-2023.telegeography.com/
 
-- # Список источников
+# Список источников
 1. [Статистика и трафик Whatsapp][1]
 2. [Пользовательская статистика][2]
 3. [Количество пользователей Whatsapp][3]
