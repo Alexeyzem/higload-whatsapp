@@ -602,7 +602,7 @@ Clustering key (бывает двух видов, в зависимости от
 |      file-binary       | SQLite | url |                 -                  |
 |      voice-binary      | SQLite | url |                 -                  |
 
-![Физическая схема](img/Физическая_Клиент.png)
+![Физическая схема](img/Физическая_клиент.png)
 
 [1]: https://www.coolest-gadgets.com/whatsapp-statistics/
 [2]: https://learn.rasayel.io/en/blog/whatsapp-user-statistics/
